@@ -1,0 +1,14 @@
+5 Highest Mean Flexibility by Area:
+    area  flexible_courses
+7   INFM          1.000000
+13  SPHL          1.000000
+11  PLCY          0.892857
+15  URSP          0.857143
+5   ENSP          0.833333
+5 Lowest Mean Flexibility by Area:
+    area  flexible_courses
+12  PSYC          0.447368
+1   BMGT          0.433962
+9   MATH          0.408163
+14  STAT          0.400000
+4   ECON          0.265625
